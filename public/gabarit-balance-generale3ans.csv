@@ -1,0 +1,35 @@
+COMPTE;LIBELLE;DEBIT;CREDIT;ANNEE
+201;Frais d'établissement;10000;0;2022
+203;Frais de développement;5000;0;2022
+211;Terrains;0;20000;2022
+213;Constructions;0;80000;2022
+218;Matériel industriel;0;15000;2022
+275;Dépôts et cautionnements;0;2000;2022
+280;Amortissements des immobilisations;5000;0;2022
+290;Provisions pour dépréciation;2000;0;2022
+301;Stocks de matières premières;0;12000;2022
+401;Clients;0;25000;2022
+411;Clients douteux;0;1000;2022
+512;Banques;0;18000;2022
+101;Capital social;0;50000;2022
+106;Réserves;0;10000;2022
+120;Résultat de l'exercice;0;8000;2022
+164;Emprunts;20000;0;2022
+401;Fournisseurs;15000;0;2022
+445;TVA collectée;0;3000;2022
+512;Banques;0;15000;2021
+101;Capital social;0;50000;2021
+120;Résultat de l'exercice;0;6000;2021
+211;Terrains;0;20000;2021
+213;Constructions;0;80000;2021
+218;Matériel industriel;0;15000;2021
+301;Stocks de matières premières;0;12000;2021
+401;Clients;0;25000;2021
+512;Banques;0;12000;2020
+101;Capital social;0;50000;2020
+120;Résultat de l'exercice;0;4000;2020
+211;Terrains;0;20000;2020
+213;Constructions;0;80000;2020
+218;Matériel industriel;0;15000;2020
+301;Stocks de matières premières;0;12000;2020
+401;Clients;0;25000;2020
